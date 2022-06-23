@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MeFuzi
-- 📫 My Discord Fuzi#1337 ...
+- 📫 My Discord Fuzi#1000 ...
 
 <!---
 
