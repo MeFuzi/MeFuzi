@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @MeFuzi
-- 📫 My Discord Fuzi#1000 ...
+## Selam Github! <img src="https://komarev.com/ghpvc/?username=mefuzi&label=Ziyaretçi%20Sayısı&color=ff0000" alt="mefuzi" />
 
 <!---
 
