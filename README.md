@@ -8,3 +8,6 @@
 
 ## Languages
 <img src="https://camo.githubusercontent.com/49f5586d2bf7c05d136f2975c5519462d2430a7fe5111f9617e7e87d9987cf5f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f64652d4a6176615363726970742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d627269676874677265656e" alt="" data-canonical-src="https://img.shields.io/badge/Code-JavaScript-black?style=flat-square&amp;logo=javascript&amp;logoColor=brightgreen" style="max-width: 100%;">
+
+## Contacts
+<a href="https://discord.com/users/997220927509123164" rel="nofollow"><img src="https://camo.githubusercontent.com/e52853bd3b80be313162f9a4ad3f4eee950506e7cdffa02a9a86768133fd3618/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d6666626230303f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-ffbb00?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
