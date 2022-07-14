@@ -1,4 +1,4 @@
-## Selam Github! <img src="https://komarev.com/ghpvc/?username=mefuzi&label=Ziyaretçi%20Sayısı&color=ff0000" alt="mefuzi" />
+## Selam Github! <img src="https://komarev.com/ghpvc/?username=mefuzi&label=Ziyaretçi%20Sayısı&color=6cadd1" alt="mefuzi" />
 
 <!---
 
