@@ -11,3 +11,5 @@
 
 ## Social
 <a href="https://discord.com/users/931268533583773806" rel="nofollow"><img src="https://camo.githubusercontent.com/e52853bd3b80be313162f9a4ad3f4eee950506e7cdffa02a9a86768133fd3618/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446973636f72642d6666626230303f7374796c653d666f722d7468652d6261646765266c6f676f3d646973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Discord-9fd3a8?style=for-the-badge&amp;logo=discord&amp;logoColor=white" style="max-width: 100%;"></a>
+
+![github-contribution-grid-snake](https://user-images.githubusercontent.com/106864876/179424426-29262e35-ab7b-4701-8ce3-8ed7db3d592b.svg)
